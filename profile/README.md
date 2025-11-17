@@ -74,10 +74,9 @@ O desenvolvimento ocorreu em ambiente local utilizando Docker e Kubernetes para 
 ## Requisitos funcionais
 - Autenticação e gestão de conta: registro, login, logout, recuperação de senha e gerenciamento de perfil
 - Gestão de projetos: criar, editar, visualizar e excluir projetos
-- Gestão de membros: convidar, aceitar convite, listar, adicionar e remover membros com papéis
+- Gestão de membros: convidar, aceitar convite, listar, adicionar e remover membros
 - Gestão de tarefas: criar, editar, excluir, visualizar e filtrar tarefas dentro de projetos
 - Atribuição de tarefas: atribuir e remover responsáveis por tarefas
-- Listagens e filtros: paginação e filtros por status, responsável e prazo
 - Relatórios e dashboards: apresentar KPIs por projeto e por usuário
 - Notificações: informar usuários sobre convites e mudanças relevantes
 
@@ -93,14 +92,11 @@ O desenvolvimento ocorreu em ambiente local utilizando Docker e Kubernetes para 
 ### Requisitos de organização
 - Processos de desenvolvimento com revisão de código
 - Pipelines de integração contínua e entrega contínua
-- Políticas de deploy rollback e manutenção
 - Papéis e responsabilidades definidos na equipe
 
 ### Requisitos de confiabilidade
-- Backups regulares e procedimentos de restauração testados
 - Alta disponibilidade e mecanismos de tolerância a falhas
 - Monitoramento, logs e alertas operacionais
-- Testes automatizados e validação contínua
 
 ### Requisito de implementação
 - Arquitetura modular e código tipado
@@ -146,7 +142,7 @@ Apresentar a viabilidade do produto como um todo, contemplando arquitetura, dado
 
 ## Implantação e Operação
 - A plataforma é compatível com pipelines de integração e entrega contínua, deployment em contêineres e orquestração em ambientes gerenciados.
-- Práticas de observabilidade (logs estruturados, métricas e health checks) suportam operação previsível e respostas automatizadas a eventos de produção.
+- Práticas de observabilidade (health checks) suportam operação previsível e respostas automatizadas a eventos de produção.
 
 ## Qualidade e Confiabilidade
 - Adoção de tipagem, validação de entrada e testes automatizados contribui para estabilidade e manutenção segura do produto.
