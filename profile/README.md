@@ -179,7 +179,46 @@ Apresentar a viabilidade do produto como um todo, contemplando arquitetura, dado
 <img src="assets/canvas-model.png" width="600"/>
 
 # 8. Design
-(Paleta de cor, Tipografia, Logo, Wireframes, Modelo de navegação)
+
+## Paleta de Cores
+
+A paleta do Agilis foi pensada para uma interface escura, com acentos vibrantes para ações principais e sinais claros para estados críticos. Abaixo estão as cores e recomendações de uso, acessibilidade e variações rápidas para estados (hover, foco, disabled).
+
+<img src="assets/color-palette.png"/>
+
+### Cores Principais
+
+- **Primary**: `#a31ef1`
+  - Usada para elementos interativos principais, como botões primários e links importantes.
+
+- **Secondary**: `#572673`
+  - Usada para elementos de menor destaque, como badges e fundos secundários.
+
+- **Accent**: `#372442`
+  - Usada para indicar foco, hover e outros estados sutis em elementos interativos.
+
+- **Background**: `#050505`
+  - A cor de fundo principal da aplicação.
+
+- **Destructive**: `#dc2828`
+  - Usada para ações destrutivas, como botões de exclusão e alertas de erro.
+
+- **Confirmação**: `#2eb88a`
+  - Usada para ações de confirmação/sucesso, como confirmações de convite.
+
+### Logo
+
+<img src="assets/logo.png" width="250"/>
+
+A logo foi desenvolvida para comunicar velocidade, inovação e eficiência tecnológica. O conjunto visual utiliza o conceito de "propulsão" através da metáfora do foguete, alinhando-se semanticamente ao nome da marca. A estética adota o estilo Dark Mode para evocar modernidade.
+
+### Wireframes
+
+(...)
+
+### Modelo de Navegação
+
+<img src="assets/navigation-model.png"/>
 
 # 9. Protótipo
 (Gere um protótipo funcional na ferramenta que se sentir mais confortável (Figma, por exemplo) e apresente aqui, indicando o link).
