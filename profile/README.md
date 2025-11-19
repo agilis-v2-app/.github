@@ -25,7 +25,7 @@
 
 O Agilis é um app de gestão de tarefas focado em colaboração leve e direta entre usuários. A ideia é permitir que qualquer pessoa crie projetos, organize atividades e convide outros para contribuírem de forma simples, sem a complexidade de ferramentas de PM mais pesadas.
 
-Ele nasce da necessidade de um fluxo mais rápido e acessível pra pequenos times, grupos de estudo e frilas que precisam se organizar sem burocracia. A proposta é entregar uma experiência minimalista, com foco total no que importa: projetos claros, membros definidos e tarefas que realmente andam.
+Ele nasce da necessidade de um fluxo mais rápido e acessível pra pequenos times, grupos de estudo e freelas que precisam se organizar sem burocracia. A proposta é entregar uma experiência minimalista, com foco total no que importa: projetos claros, membros definidos e tarefas que realmente andam.
 
 ## • Objetivos
 
