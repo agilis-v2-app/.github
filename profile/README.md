@@ -214,13 +214,42 @@ A logo foi desenvolvida para comunicar velocidade, inovação e eficiência tecn
 
 ### Wireframes
 
-(...)
+#### Landing Page
+  <img src="assets/pages/01landing.jpg" width="720"/>
+
+#### Criar Conta
+  <img src="assets/pages/02register.jpg" width="720"/>
+
+#### Entrar na Conta
+  <img src="assets/pages/03login.jpg" width="720"/>
+
+#### Dashboard
+  <img src="assets/pages/04dashboard.jpg" width="720"/>
+
+#### Projetos
+  <img src="assets/pages/05projects.jpg" width="720"/>
+
+#### Visão do Projeto
+  <img src="assets/pages/06project.jpg" width="720"/>
+
+#### Quadro Kanban
+  <img src="assets/pages/07kanban.jpg" width="720"/>
+
+#### Gerenciar Projeto
+  <img src="assets/pages/08manage.jpg" width="720"/>
+
+#### Configurações do Projeto
+  <img src="assets/pages/09settings.jpg" width="720"/>
+  
+#### Convites do Usuário
+  <img src="assets/pages/10invites.jpg" width="720"/>
 
 ### Modelo de Navegação
 
 <img src="assets/navigation-model.png"/>
 
 # 9. Protótipo
-(Gere um protótipo funcional na ferramenta que se sentir mais confortável (Figma, por exemplo) e apresente aqui, indicando o link).
+
+[Protótipo interativo no Figma — Agilis](https://www.figma.com/design/puIGHs2LCOVWo4X1ozdqEX/Agilis?node-id=0-1&t=hjR1ORUql5V9o6F4-1)
 
 # 10. Aplicação
