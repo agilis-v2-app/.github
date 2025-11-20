@@ -253,3 +253,5 @@ A logo foi desenvolvida para comunicar velocidade, inovação e eficiência tecn
 [Protótipo interativo no Figma — Agilis](https://www.figma.com/design/puIGHs2LCOVWo4X1ozdqEX/Agilis?node-id=0-1&t=hjR1ORUql5V9o6F4-1)
 
 # 10. Aplicação
+
+<video src="assets/agilis_app.mp4" controls/>
