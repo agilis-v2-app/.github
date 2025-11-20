@@ -255,3 +255,17 @@ A logo foi desenvolvida para comunicar velocidade, inovação e eficiência tecn
 # 10. Aplicação
 
 https://github.com/user-attachments/assets/826bf2b7-b062-4088-b03b-af261deccca4
+
+# 11. Referências Bibliográficas
+
+GOOGLE. Plus Jakarta Sans. Google Fonts. Disponível em: <https://fonts.google.com/specimen/Plus+Jakarta+Sans>. Acesso em: 20 nov. 2025.
+
+ASANA. Asana. Disponível em: <https://app.asana.com/>. Acesso em: 20 nov. 2025.
+
+ATLASSIAN. Jira Software. Disponível em: <https://www.atlassian.com/br/software/jira>. Acesso em: 20 nov. 2025.
+
+PLANTUML. PlantUML — Diagrams from text. Disponível em: <https://plantuml.com/>. Acesso em: 20 nov. 2025.
+
+# 12. Considerações Finais
+
+Durante o semestre, os principais desafios foram o calendário e o tempo livre para o desenvolvimento reduzidos, o que impactou o ritmo das entregas e a disponibilidade para implantação em ambiente remoto. Essas limitações, entretanto, contribuíram para o aprendizado prático e o aprimoramento das habilidades. Agradecemos aos professores pelo suporte e pelas orientações ao longo do projeto.
