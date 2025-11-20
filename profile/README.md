@@ -254,4 +254,4 @@ A logo foi desenvolvida para comunicar velocidade, inovação e eficiência tecn
 
 # 10. Aplicação
 
-<video src="assets/agilis_app.mp4" controls/>
+https://github.com/user-attachments/assets/c60b06ef-5bed-4c8f-a8af-4ba7c2d87dee
