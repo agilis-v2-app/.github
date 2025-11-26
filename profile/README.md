@@ -1,5 +1,7 @@
 # Agilis
 
+## [Veja a documentação no Word (.docx)](./assets/agilis-v2.docx)
+
 <details>
   <summary><strong>📑 Sumário</strong></summary>
 
